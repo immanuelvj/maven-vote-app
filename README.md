@@ -7,6 +7,8 @@ the pom.xml dependencies list :
 common-lang-3
 junit
 
+the java file with app logic is present in src/main/java/com/example/App.java
+
 steps to build the project 
 1.clone the repository
 2.cd maven-vote-app
